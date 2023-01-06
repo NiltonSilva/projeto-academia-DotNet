@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Application", "1.Application", "{B91A11E6-9207-46B8-BEB4-5D1A508E8D5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{E1425224-18EB-4BA1-B58B-4239F0999A08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Repositories", "3.Repositories", "{F18960CE-F4BF-4D57-A529-CBB9170500CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infra", "4.Infra", "{E9AF815F-46DA-451F-9A2A-F0E508FA191A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1.Data", "4.1.Data", "{9B7CE4F3-6CC2-4D46-BFE0-8B0EE0ED3F37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2.CrossCutting", "4.2.CrossCutting", "{28219AC5-C2C3-480E-99CE-2B72673FC629}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nilton.academias.Infra.Data", "nilton.academias.Infra.Data\nilton.academias.Infra.Data.csproj", "{2CE216C9-92B9-4F54-91E4-B49C9A1C6335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilton.academias.Domain", "nilton.academias.Domain\nilton.academias.Domain.csproj", "{C8D70469-9503-4548-85C2-E32EB8DD1701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilton.academias.Application", "nilton.academias.Application\nilton.academias.Application.csproj", "{9A381559-465B-4494-B03D-377B2D1D3F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE216C9-92B9-4F54-91E4-B49C9A1C6335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE216C9-92B9-4F54-91E4-B49C9A1C6335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE216C9-92B9-4F54-91E4-B49C9A1C6335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE216C9-92B9-4F54-91E4-B49C9A1C6335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D70469-9503-4548-85C2-E32EB8DD1701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D70469-9503-4548-85C2-E32EB8DD1701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D70469-9503-4548-85C2-E32EB8DD1701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D70469-9503-4548-85C2-E32EB8DD1701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A381559-465B-4494-B03D-377B2D1D3F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A381559-465B-4494-B03D-377B2D1D3F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A381559-465B-4494-B03D-377B2D1D3F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A381559-465B-4494-B03D-377B2D1D3F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B7CE4F3-6CC2-4D46-BFE0-8B0EE0ED3F37} = {E9AF815F-46DA-451F-9A2A-F0E508FA191A}
+		{28219AC5-C2C3-480E-99CE-2B72673FC629} = {E9AF815F-46DA-451F-9A2A-F0E508FA191A}
+		{2CE216C9-92B9-4F54-91E4-B49C9A1C6335} = {9B7CE4F3-6CC2-4D46-BFE0-8B0EE0ED3F37}
+		{C8D70469-9503-4548-85C2-E32EB8DD1701} = {E1425224-18EB-4BA1-B58B-4239F0999A08}
+		{9A381559-465B-4494-B03D-377B2D1D3F97} = {B91A11E6-9207-46B8-BEB4-5D1A508E8D5E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0882D7F-988A-4C66-8AD7-CBDDB7D0021B}
+	EndGlobalSection
+EndGlobal
