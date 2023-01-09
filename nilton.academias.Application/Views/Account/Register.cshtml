@@ -1,0 +1,47 @@
+﻿@model nilton.academias.Application.Models.Account.UserViewModel
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_LayoutGeral.cshtml";
+}
+
+<div class="container">
+    <br />
+    <div class="row">
+        <div class="col-sm-6">
+            <h1>Bem vindo Frangote. Faça Sua Conta!</h1>
+        </div>
+        <div class="col-sm-6">
+            <form class="row g-3" asp-controller="Account" asp-action="Register" method="post">
+              <div class="col-md-6">
+                <label for="primeiroNome" class="form-label">Primeiro Nome</label>
+                <input type="text" class="form-control" id="primeiroNome" placeholder="Digite seu primeiro nome">
+              </div>
+              <div class="col-md-6">
+                <label for="ultimoNome" class="form-label">Último Nome</label>
+                <input type="text" class="form-control" id="ultimoNome" placeholder="Digite seu último nome">
+              </div>
+              <div class="col-12">
+                <label for="email" class="form-label">E-mail</label>
+                <input type="email" class="form-control" id="email" placeholder="Digite seu e-mail">
+              </div>
+              <div class="col-12">
+                <label for="usuario" class="form-label">Usuário</label>
+                <input type="text" class="form-control" id="usuario" placeholder="Digite seu nome de usuário">
+              </div>
+              <div class="col-md-6">
+                <label for="senha" class="form-label">Senha</label>
+                <input type="password" class="form-control" id="senha" placeholder="Crie sua senha">
+              </div>
+              <div class="col-md-6">
+                <label for="confirmSenha" class="form-label">Confirme sua senha</label>
+                <input type="password" class="form-control" id="confirmSenha" placeholder="Confirme sua senha">
+              </div>
+              <div class="d-grid gap-2">
+                <button type="submit" class="btn btn-primary">Cadastrar</button>
+              </div>
+            </form>
+        </div>
+    </div>
+</div>
+

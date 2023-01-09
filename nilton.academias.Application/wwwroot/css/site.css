@@ -16,3 +16,27 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+footer p {
+    color: #FFF;
+}
+
+.navbar-nav > li > a {
+    color: #FFF;
+}
+
+.nav-item {
+    margin: 4px 8px;
+}
+
+.btn-novaConta-login {
+    padding-right: 70px;
+}
+
+.container-home-title h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5rem;
+    text-shadow: 5px 5px 5px #ff0000;
+}

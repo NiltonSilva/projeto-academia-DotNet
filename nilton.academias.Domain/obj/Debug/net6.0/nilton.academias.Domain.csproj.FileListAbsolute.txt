@@ -1,0 +1,12 @@
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\bin\Debug\net6.0\nilton.academias.Domain.deps.json
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\bin\Debug\net6.0\nilton.academias.Domain.dll
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\bin\Debug\net6.0\nilton.academias.Domain.pdb
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\nilton.academias.Domain.csproj.AssemblyReference.cache
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\nilton.academias.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\nilton.academias.Domain.AssemblyInfoInputs.cache
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\nilton.academias.Domain.AssemblyInfo.cs
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\nilton.academias.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\nilton.academias.Domain.dll
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\refint\nilton.academias.Domain.dll
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\nilton.academias.Domain.pdb
+C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Domain\obj\Debug\net6.0\ref\nilton.academias.Domain.dll

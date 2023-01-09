@@ -1,0 +1,98 @@
+/* _content/nilton.academias.Application/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-bi055jl98z] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-bi055jl98z] {
+  color: #0077cc;
+}
+
+.btn-primary[b-bi055jl98z] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-bi055jl98z], .nav-pills .show > .nav-link[b-bi055jl98z] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-bi055jl98z] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-bi055jl98z] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-bi055jl98z] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-bi055jl98z] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-bi055jl98z] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/nilton.academias.Application/Views/Shared/_LayoutGeral.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-shg727ipam] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-shg727ipam] {
+  color: #0077cc;
+}
+
+.btn-primary[b-shg727ipam] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-shg727ipam], .nav-pills .show > .nav-link[b-shg727ipam] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-shg727ipam] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-shg727ipam] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-shg727ipam] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-shg727ipam] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-shg727ipam] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
