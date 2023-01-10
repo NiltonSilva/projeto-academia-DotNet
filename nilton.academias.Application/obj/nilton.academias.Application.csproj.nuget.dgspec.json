@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Application\\nilton.academias.Application.csproj": {}
+    "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\nilton.academias.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Application\\nilton.academias.Application.csproj": {
+    "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\nilton.academias.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Application\\nilton.academias.Application.csproj",
+        "projectUniqueName": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\nilton.academias.Application.csproj",
         "projectName": "nilton.academias.Application",
-        "projectPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Application\\nilton.academias.Application.csproj",
+        "projectPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\nilton.academias.Application.csproj",
         "packagesPath": "C:\\Users\\nsfge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Application\\obj\\",
+        "outputPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nsfge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj"
+              "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj"
               }
             }
           }
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.4, )"
@@ -87,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj": {
+    "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
         "projectName": "nilton.academias.Domain",
-        "projectPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
+        "projectPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
         "packagesPath": "C:\\Users\\nsfge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\obj\\",
+        "outputPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nsfge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -149,14 +153,14 @@
         }
       }
     },
-    "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj": {
+    "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj",
         "projectName": "nilton.academias.Infra.Data",
-        "projectPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\nsfge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nsfge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +178,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj": {
-                "projectPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj"
+              "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj": {
+                "projectPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj"
               }
             }
           }

@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = nilton.academias.Application
 build_property.RootNamespace = nilton.academias.Application
-build_property.ProjectDir = C:\Users\nsfge\OneDrive\Área de Trabalho\nilton.academias\nilton.academias.Application\
+build_property.ProjectDir = C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Application\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\nsfge\OneDrive\Área de Trabalho\nilton.academias\nilton.academias.Application
+build_property.MSBuildProjectDirectory = C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Application
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Account/Register.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Home/Index.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Home/Privacy.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Shared/Error.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Shared/_MenuGeneralPartialView.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Shared/_MenuGeneralPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51R2VuZXJhbFBhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Shared/_MenuHomePartialView.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Shared/_MenuHomePartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51SG9tZVBhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/_ViewImports.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/_ViewStart.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Shared/_Layout.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bi055jl98z
 
-[C:/Users/nsfge/OneDrive/Área de Trabalho/nilton.academias/nilton.academias.Application/Views/Shared/_LayoutGeral.cshtml]
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Shared/_LayoutGeral.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRHZXJhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-shg727ipam

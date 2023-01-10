@@ -9,37 +9,38 @@
     <br />
     <div class="row">
         <div class="col-sm-6">
-            <h1>Bem vindo Frangote. Faça Sua Conta!</h1>
+            <img class="img-novo-usuario" src="~/img/new-user.jpg" alt="Imagem de novo usuário" />
         </div>
         <div class="col-sm-6">
             <form class="row g-3" asp-controller="Account" asp-action="Register" method="post">
               <div class="col-md-6">
                 <label for="primeiroNome" class="form-label">Primeiro Nome</label>
-                <input type="text" class="form-control" id="primeiroNome" placeholder="Digite seu primeiro nome">
+                <input type="text" class="form-control" id="primeiroNome" placeholder="Digite seu primeiro nome" asp-for="FirstName">
               </div>
               <div class="col-md-6">
                 <label for="ultimoNome" class="form-label">Último Nome</label>
-                <input type="text" class="form-control" id="ultimoNome" placeholder="Digite seu último nome">
+                <input type="text" class="form-control" id="ultimoNome" placeholder="Digite seu último nome" asp-for="LastName">
               </div>
               <div class="col-12">
                 <label for="email" class="form-label">E-mail</label>
-                <input type="email" class="form-control" id="email" placeholder="Digite seu e-mail">
+                <input type="email" class="form-control" id="email" placeholder="Digite seu e-mail" asp-for="Email">
               </div>
               <div class="col-12">
                 <label for="usuario" class="form-label">Usuário</label>
-                <input type="text" class="form-control" id="usuario" placeholder="Digite seu nome de usuário">
+                <input type="text" class="form-control" id="usuario" placeholder="Digite seu nome de usuário" asp-for="UserName">
               </div>
               <div class="col-md-6">
                 <label for="senha" class="form-label">Senha</label>
-                <input type="password" class="form-control" id="senha" placeholder="Crie sua senha">
+                <input type="password" class="form-control" id="senha" placeholder="Crie sua senha" asp-for="Password">
               </div>
               <div class="col-md-6">
                 <label for="confirmSenha" class="form-label">Confirme sua senha</label>
-                <input type="password" class="form-control" id="confirmSenha" placeholder="Confirme sua senha">
+                <input type="password" class="form-control" id="confirmSenha" placeholder="Confirme sua senha" asp-for="ConfirmPassword">
               </div>
               <div class="d-grid gap-2">
                 <button type="submit" class="btn btn-primary">Cadastrar</button>
               </div>
+              <div asp-validation-summary="All" class="text-danger"></div>
             </form>
         </div>
     </div>

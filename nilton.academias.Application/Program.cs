@@ -1,4 +1,6 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using nilton.academias.Domain.Entities.Account;
 using nilton.academias.Infra.Data.Context;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,16 @@ builder.Services.AddDbContext<DataContext>(options =>
 {
     options.UseSqlServer(strConnection);
 });
+
+builder.Services.AddIdentity<Users, IdentityRole>(options =>
+{
+    options.SignIn.RequireConfirmedAccount = true;       // validação de login
+    options.Lockout.MaxFailedAccessAttempts = 3;        // se errar a senha 3 vezes o sistema bloqueia a conta
+    options.Lockout.AllowedForNewUsers = true;
+}).AddEntityFrameworkStores<DataContext>()
+   .AddDefaultTokenProviders();
+
+builder.Services.Configure<DataProtectionTokenProviderOptions>(options => options.TokenLifespan = TimeSpan.FromHours(3));       // Após 3 horas o token expira para o usuário não passar mais tempo que isso na página.
 
 builder.Services.AddControllersWithViews();
 
@@ -28,6 +40,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
