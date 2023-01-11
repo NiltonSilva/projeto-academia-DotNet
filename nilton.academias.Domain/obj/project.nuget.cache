@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DItsFJd7WM/w1hAOvf8sW3naxFbMPqzacvBteC/UamnsoyMGtPQmA1Jrb67ovILYpo+mXzP7KOWD421pAUPjbg==",
+  "dgSpecHash": "lFB0W/JiVkvWHOSGZM1QXZKfdfiIm0DkBmEIgy8+b4xCuvqLgJ8Qt+7eWCiY2OiqksE7XxnYhv7C6mIhRur/vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
+  "projectFilePath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nsfge\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.4\\microsoft.aspnetcore.cryptography.internal.6.0.4.nupkg.sha512",
     "C:\\Users\\nsfge\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.4\\microsoft.aspnetcore.cryptography.keyderivation.6.0.4.nupkg.sha512",

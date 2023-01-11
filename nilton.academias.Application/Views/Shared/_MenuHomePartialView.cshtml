@@ -1,5 +1,4 @@
-﻿
-<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark box-shadow mb-3">
+﻿<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark box-shadow mb-3">
     <div class="container-fluid">
         @*<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><i class="fa-solid fa-dumbbell"></i></a>*@
         <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><i class="fa-solid fa-dumbbell"></i></a>
@@ -20,7 +19,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li>
-                            <a class="dropdown-item" href="#">
+                            <a class="dropdown-item" href="@Url.Action("Login", "Account")">
                                 <i class="fa-solid fa-right-to-bracket"></i> &emsp;Entrar
                             </a>
                         </li>

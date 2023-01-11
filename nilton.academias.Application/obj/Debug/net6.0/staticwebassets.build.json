@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R3dt5L+yZxqAxWi04P3c/JVSMCw+/GcqseAZQ9OndRg=",
+  "Hash": "7cUFkwhtJI9NIneppo5EJhDwV7PAbFwIMxzFk8NAVnc=",
   "Source": "nilton.academias.Application",
   "BasePath": "_content/nilton.academias.Application",
   "Mode": "Default",
@@ -425,12 +425,12 @@
       "OriginalItemSpec": "wwwroot\\img\\capa-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\wwwroot\\img\\capa-medium.jpg",
+      "Identity": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\wwwroot\\img\\login.jpg",
       "SourceId": "nilton.academias.Application",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\wwwroot\\",
       "BasePath": "_content/nilton.academias.Application",
-      "RelativePath": "img/capa-medium.jpg",
+      "RelativePath": "img/login.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\capa-medium.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\login.jpg"
     },
     {
-      "Identity": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\wwwroot\\img\\capa-small.jpg",
+      "Identity": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\wwwroot\\img\\musculo.jpg",
       "SourceId": "nilton.academias.Application",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\wwwroot\\",
       "BasePath": "_content/nilton.academias.Application",
-      "RelativePath": "img/capa-small.jpg",
+      "RelativePath": "img/musculo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,7 +456,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\capa-small.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\musculo.jpg"
     },
     {
       "Identity": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Application\\wwwroot\\img\\new-user.jpg",

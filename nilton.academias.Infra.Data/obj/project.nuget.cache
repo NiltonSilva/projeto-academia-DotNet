@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oV9LzxNbUMVxWbjiezksHUNQ7Ftu7Wj8MNHk/Ca+dr7f1i1QsXDPdZj3jKxZBUfWypMo0sIl2LdBtHd1m6euqQ==",
+  "dgSpecHash": "366/fpf/gK4C+jZ3PeYmJ78boGPvqVIZlFBDuZ/wxfkOX5ii1kdYGID5v0WF5X98g5jyCkf4Rw07xGNizJzLPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Infra.Data\\nilton.academias.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nsfge\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nsfge\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.4\\microsoft.aspnetcore.cryptography.internal.6.0.4.nupkg.sha512",

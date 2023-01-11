@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\nsfge\OneDrive\Documentos\ws.NET\codigo na veia\ProjetoAcademia\nilton.academias\nilton.academias.Application
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Account/BemVindo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxCZW1WaW5kby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nsfge/OneDrive/Documentos/ws.NET/codigo na veia/ProjetoAcademia/nilton.academias/nilton.academias.Application/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

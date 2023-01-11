@@ -18,6 +18,13 @@ builder.Services.AddIdentity<Users, IdentityRole>(options =>
     options.SignIn.RequireConfirmedAccount = true;       // validação de login
     options.Lockout.MaxFailedAccessAttempts = 3;        // se errar a senha 3 vezes o sistema bloqueia a conta
     options.Lockout.AllowedForNewUsers = true;
+    /*
+    options.Password.RequireDigit = false;              // Se a senha deve conter digitos (caracteres especiais)
+    options.Password.RequireUppercase = false;          // Para não exisgir letra maiúscula
+    options.Password.RequireNonAlphanumeric = false;    // Para não exigir senha com combinação alfanumérica
+    options.Password.RequiredLength = 6;                // A senha tem que ter ser caracteres.
+    */
+
 }).AddEntityFrameworkStores<DataContext>()
    .AddDefaultTokenProviders();
 

@@ -1,7 +1,8 @@
 ﻿body {
     padding: 0;
     margin: 0;
-    background-image: url(../img/capa-large.jpg);
+    /*background-image: url(../img/capa-large.jpg);*/
+    background-image: url(../img/musculo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }

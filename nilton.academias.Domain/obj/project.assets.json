@@ -820,11 +820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
       "projectName": "nilton.academias.Domain",
-      "projectPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
+      "projectPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\nilton.academias.Domain.csproj",
       "packagesPath": "C:\\Users\\nsfge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nsfge\\OneDrive\\Área de Trabalho\\nilton.academias\\nilton.academias.Domain\\obj\\",
+      "outputPath": "C:\\Users\\nsfge\\OneDrive\\Documentos\\ws.NET\\codigo na veia\\ProjetoAcademia\\nilton.academias\\nilton.academias.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nsfge\\AppData\\Roaming\\NuGet\\NuGet.Config",
