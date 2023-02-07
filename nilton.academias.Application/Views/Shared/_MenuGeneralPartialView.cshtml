@@ -26,18 +26,19 @@
                         @if (User.Identity.IsAuthenticated)
                         {                            
                             <li><hr class="dropdown-divider" /></li>
-                            <form asp-controller="Account" asp-action="LogOut" method="post">
+@*                            <form asp-controller="Account" asp-action="LogOut" method="post">
                                 <button type="submit" class="dropdown-item">
                                     <i class="fa-solid fa-door-open"></i>
                                     &emsp;Sair
                                 </button>
-                            </form>
+                            </form>*@
+                            <li>
+                                <a class="dropdown-item btnSair" href="#">
+                                    <i class="fa-solid fa-door-open"></i>
+                                    &emsp;Sair
+                                </a>
+                            </li>
                         }
-@*                        <li>
-                            <a class="dropdown-item" href="#">
-                                <i class="fa-solid fa-door-open"></i> &emsp;Sair
-                            </a>
-                        </li>*@
                     </ul>
                 </li>
             </ul>
