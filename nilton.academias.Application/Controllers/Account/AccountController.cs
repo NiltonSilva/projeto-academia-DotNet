@@ -122,6 +122,13 @@ namespace nilton.academias.Application.Controllers.Account
             return View();
         }
 
+        [HttpPost]
+        public async Task<IActionResult> LogOut()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Index","Home");
+        }
+
         public IActionResult BemVindo()
         {
             return View();
